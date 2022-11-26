@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktotbookstore"]=self["webpackChunktotbookstore"]||[]).push([[454],{454:(t,e,n)=>{n.r(e),n.d(e,{default:()=>c});var o=n(812);function r(t,e){return(0,o.wg)(),(0,o.iD)("h1",null,"Página não encontrada")}var a=n(998);const s={},u=(0,a.Z)(s,[["render",r]]),c=u}}]);
+//# sourceMappingURL=454.38bda302.js.map

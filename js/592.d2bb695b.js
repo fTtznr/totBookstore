@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktotbookstore"]=self["webpackChunktotbookstore"]||[]).push([[592],{592:(e,o,r)=>{r.r(o),r.d(o,{default:()=>k});var t=r(812);const n={id:"about"},a=(0,t._)("h2",null,"Sobre",-1),s=(0,t._)("p",null," A maior livraria online desde 1999. ",-1),u=[a,s];function d(e,o,r,a,s,d){return(0,t.wg)(),(0,t.iD)("div",n,u)}var i=r(603);const l={mounted(){(0,i.d)().page="Sobre"}};var b=r(998);const c=(0,b.Z)(l,[["render",d]]),k=c}}]);
+//# sourceMappingURL=592.d2bb695b.js.map

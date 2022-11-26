@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktotbookstore"]=self["webpackChunktotbookstore"]||[]).push([[464],{464:(t,o,e)=>{e.r(o),e.d(o,{default:()=>i});var n=e(812);const r={id:"about"},s=(0,n._)("h2",null,"Contato",-1),u=(0,n._)("p",null,"tot_bookstore@tot.br",-1),a=[s,u];function b(t,o,e,s,u,b){return(0,n.wg)(),(0,n.iD)("div",r,a)}var c=e(603);const d={mounted(){(0,c.d)().page="Contato"}};var k=e(998);const l=(0,k.Z)(d,[["render",b]]),i=l}}]);
+//# sourceMappingURL=464.f8d8dc33.js.map
